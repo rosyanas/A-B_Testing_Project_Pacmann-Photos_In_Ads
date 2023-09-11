@@ -3,6 +3,7 @@
 A/B testing cara untuk membandingkan dua versi dari suatu hal demi mengetahui mana yang bekerja lebih baik. - Harvard Business Review
 
 Berikut ilustrasinya :
+
 <img width="622" alt="Screenshot 2023-09-11 at 20 15 01" src="https://github.com/rosyanas/A-B_Testing_Project_Pacmann-Photos_In_Ads/assets/61444164/4558cbb9-ff3d-45e8-a822-b843aa25dccc">
 
 
